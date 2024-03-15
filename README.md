@@ -37,3 +37,12 @@ AS TradeTitan
 I WANT TO access a list of commissions on phones I can sell 
 SO THAT I can maximize my profits
 ```
+
+## Inspiration
+
+We'll create a hypothetical phone webshop. We'll get inspired by some industry leaders in terms of layout.
+
+- https://www.apple.com/iphone/
+- https://store.google.com/us/collection/phones?hl=en-US
+- https://www.samsung.com/global/galaxy/
+
